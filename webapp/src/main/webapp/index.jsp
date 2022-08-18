@@ -52,7 +52,7 @@ hr {
 }
 
 .registerbtn:hover {
-  opacity: 1;
+  opacity: 2;
 }
 
 /* Add a blue text color to links */
@@ -62,7 +62,7 @@ a {
 
 /* Set a grey background color and center the text of the "sign in" section */
 .signin {
-  background-color: #ac0808;
+  background-color: #ce87ce;
   text-align: center;
 }
 </style>
