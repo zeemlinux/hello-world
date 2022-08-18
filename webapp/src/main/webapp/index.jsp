@@ -41,7 +41,7 @@ hr {
 
 /* Set a style for the submit button */
 .registerbtn {
-  background-color: #04AA6D;
+  background-color: #0540e0;
   color: white;
   padding: 16px 20px;
   margin: 8px 0;
@@ -62,7 +62,7 @@ a {
 
 /* Set a grey background color and center the text of the "sign in" section */
 .signin {
-  background-color: #f1f1f1;
+  background-color: #ac0808;
   text-align: center;
 }
 </style>
