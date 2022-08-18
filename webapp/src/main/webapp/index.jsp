@@ -57,7 +57,7 @@ hr {
 
 /* Add a blue text color to links */
 a {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 /* Set a grey background color and center the text of the "sign in" section */
